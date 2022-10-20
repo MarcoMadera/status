@@ -1,6 +1,6 @@
 # Marco Madera Status
 
-Web version: https://status.marcomadera.com
+Web version: status.marcomadera.com
 
 [![Uptime CI](https://github.com/MarcoMadera/status/workflows/Uptime%20CI/badge.svg)](https://github.com/MarcoMadera/status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/MarcoMadera/status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/MarcoMadera/status/actions?query=workflow%3A%22Response+Time+CI%22)

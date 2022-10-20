@@ -5,6 +5,8 @@ repo: status # The name of this repository
 sites:
   - name: Marco Madera
     url: https://marcomadera.com
+  - name: Rindu
+    url: https://rindu.marcomadera.com/
 assignees: # Users to assign downtime issues (optional)
   - MarcoMadera
 
@@ -16,7 +18,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/MarcoMadera/Blog/master/public/icon_256x256.png
   name: Status
   introTitle: "Marco Madera services"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: "This page shows the status of all my services"
   navbar:
     - title: Status
       href: /
