@@ -29,6 +29,7 @@ status-website:
   metaTags:
     - name: "color-scheme"
       content: "dark"
+  theme: dark
   themeUrl: https://status.marcomadera.com/my-custom-theme.css
   favicon: https://marcomadera.com/favicon-48x48.png
   faviconSvg: https://marcomadera.com/logo.svg
@@ -40,4 +41,4 @@ skipDescriptionUpdate: true
 skipTopicsUpdate: true
 
 i18n:
-  footer: Visit the [GitHub repository]($REPO_URL) to see the full history of this page.
+  footer: Visit the [GitHub repository]($REPO) to see the full history of this page.
