@@ -16,8 +16,8 @@ status-website:
   cname: status.marcomadera.com
   baseUrl: /
   logoUrl: https://raw.githubusercontent.com/MarcoMadera/Blog/master/public/icon_256x256.png
-  name: Status
-  introTitle: "Marco Madera services"
+  name: Marco Madera
+  introTitle: "Status"
   introMessage: "This page shows the status of all my services"
   navbar:
     - title: Status
@@ -29,7 +29,7 @@ status-website:
   metaTags:
     - name: "color-scheme"
       content: "dark"
-  theme: dark
+  themeUrl: https://status.marcomadera.com/my-custom-theme.css
   favicon: https://marcomadera.com/favicon-48x48.png
   faviconSvg: https://marcomadera.com/logo.svg
 
