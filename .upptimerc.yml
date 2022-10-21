@@ -26,6 +26,18 @@ status-website:
       href: https://github.com/$OWNER/
     - title: WebSite
       href: https://marcomadera.com
+  metaTags:
+    - name: "color-scheme"
+      content: "dark"
+  theme: dark
+  favicon: https://marcomadera.com/favicon-48x48.png
+  faviconSvg: https://marcomadera.com/logo.svg
 
 workflowSchedule:
   uptime: "*/3 * * * *"
+
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+
+i18n:
+  footer: Visit the [GitHub repository]($REPO_URL) to see the full history of this page.
