@@ -30,7 +30,7 @@ status-website:
     - name: "color-scheme"
       content: "dark"
   theme: dark
-  themeUrl: https://status.marcomadera.com/my-custom-theme.css
+  themeUrl: https://cdn.statically.io/gh/MarcoMadera/status/master/assets/my-custom-theme.css
   favicon: https://marcomadera.com/favicon-48x48.png
   faviconSvg: https://marcomadera.com/logo.svg
 
