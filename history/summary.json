@@ -4,10 +4,10 @@
     "url": "https://marcomadera.com",
     "icon": "https://icons.duckduckgo.com/ip3/marcomadera.com.ico",
     "slug": "marco-madera",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 301,
@@ -15,14 +15,16 @@
     "timeWeek": 411,
     "timeMonth": 301,
     "timeYear": 301,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-08": 1
+    }
   },
   {
     "name": "Rindu",
     "url": "https://rindu.marcomadera.com/",
     "icon": "https://icons.duckduckgo.com/ip3/rindu.marcomadera.com.ico",
     "slug": "rindu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 1415,
     "timeMonth": 1631,
     "timeYear": 1631,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-08": 0
+    }
   }
 ]
