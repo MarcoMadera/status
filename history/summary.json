@@ -4,19 +4,19 @@
     "url": "https://marcomadera.com",
     "icon": "https://icons.duckduckgo.com/ip3/marcomadera.com.ico",
     "slug": "marco-madera",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 301,
-    "timeDay": 85,
-    "timeWeek": 411,
-    "timeMonth": 301,
-    "timeYear": 301,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 296,
+    "timeDay": 133,
+    "timeWeek": 382,
+    "timeMonth": 296,
+    "timeYear": 296,
     "dailyMinutesDown": {
-      "2022-11-08": 1
+      "2022-11-08": 25
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://rindu.marcomadera.com/",
     "icon": "https://icons.duckduckgo.com/ip3/rindu.marcomadera.com.ico",
     "slug": "rindu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1631,
-    "timeDay": 1865,
-    "timeWeek": 1415,
-    "timeMonth": 1631,
-    "timeYear": 1631,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 1638,
+    "timeDay": 1836,
+    "timeWeek": 1464,
+    "timeMonth": 1638,
+    "timeYear": 1638,
     "dailyMinutesDown": {
-      "2022-11-08": 0
+      "2022-11-08": 25
     }
   }
 ]
