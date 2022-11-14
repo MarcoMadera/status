@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/marcomadera.com.ico",
     "slug": "marco-madera",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 285,
-    "timeDay": 391,
-    "timeWeek": 227,
-    "timeMonth": 285,
-    "timeYear": 285,
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 292,
+    "timeDay": 484,
+    "timeWeek": 238,
+    "timeMonth": 292,
+    "timeYear": 292,
     "dailyMinutesDown": {
       "2022-11-08": 25
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 1663,
-    "timeDay": 1670,
-    "timeWeek": 1768,
-    "timeMonth": 1663,
-    "timeYear": 1663,
+    "time": 1659,
+    "timeDay": 1553,
+    "timeWeek": 1771,
+    "timeMonth": 1659,
+    "timeYear": 1659,
     "dailyMinutesDown": {
       "2022-11-08": 25
     }
