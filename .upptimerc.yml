@@ -11,8 +11,6 @@ sites:
     url: https://dashboard.marcomadera.com
   - name: Authentication
     url: https://auth.marcomadera.com
-    expectedStatusCodes:
-      - 404
 assignees: # Users to assign downtime issues (optional)
   - MarcoMadera
 
