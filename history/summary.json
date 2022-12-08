@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 262,
-    "timeDay": 213,
-    "timeWeek": 175,
-    "timeMonth": 227,
-    "timeYear": 262,
+    "time": 260,
+    "timeDay": 102,
+    "timeWeek": 179,
+    "timeMonth": 228,
+    "timeYear": 260,
     "dailyMinutesDown": {
       "2022-11-08": 25
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 1541,
-    "timeDay": 413,
-    "timeWeek": 1154,
-    "timeMonth": 1483,
-    "timeYear": 1541,
+    "time": 1542,
+    "timeDay": 1617,
+    "timeWeek": 1286,
+    "timeMonth": 1476,
+    "timeYear": 1542,
     "dailyMinutesDown": {
       "2022-11-08": 25
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 159,
-    "timeDay": 188,
-    "timeWeek": 159,
-    "timeMonth": 159,
-    "timeYear": 159,
+    "time": 194,
+    "timeDay": 438,
+    "timeWeek": 194,
+    "timeMonth": 194,
+    "timeYear": 194,
     "dailyMinutesDown": {}
   },
   {
@@ -63,16 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.marcomadera.com.ico",
     "slug": "authentication",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 166,
-    "timeDay": 228,
-    "timeWeek": 166,
-    "timeMonth": 166,
-    "timeYear": 166,
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 157,
+    "timeDay": 94,
+    "timeWeek": 157,
+    "timeMonth": 157,
+    "timeYear": 157,
     "dailyMinutesDown": {
       "2022-12-01": 16
     }
