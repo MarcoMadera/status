@@ -11,6 +11,16 @@ sites:
     url: https://dashboard.marcomadera.com
   - name: Authentication
     url: https://auth.marcomadera.com
+  - name: Rindu Coverage
+    url: https://coverage.rindu.marcomadera.com
+  - name: Base API
+    url: https://api.marcomadera.com
+  - name: Lyrics API
+    url: https://api.marcomadera.com/synced-lyrics
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 400
 assignees: # Users to assign downtime issues (optional)
   - MarcoMadera
 

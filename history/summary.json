@@ -78,5 +78,61 @@
     "dailyMinutesDown": {
       "2022-12-01": 16
     }
+  },
+  {
+    "name": "Rindu Coverage",
+    "url": "https://coverage.rindu.marcomadera.com",
+    "icon": "https://icons.duckduckgo.com/ip3/coverage.rindu.marcomadera.com.ico",
+    "slug": "rindu-coverage",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Base API",
+    "url": "https://api.marcomadera.com",
+    "icon": "https://icons.duckduckgo.com/ip3/api.marcomadera.com.ico",
+    "slug": "base-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Lyrics API",
+    "url": "https://api.marcomadera.com/synced-lyrics",
+    "icon": "https://icons.duckduckgo.com/ip3/api.marcomadera.com.ico",
+    "slug": "lyrics-api",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-03-11": 2
+    }
   }
 ]
