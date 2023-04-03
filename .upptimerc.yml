@@ -20,7 +20,7 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
-      - 400
+      - 401
 assignees: # Users to assign downtime issues (optional)
   - MarcoMadera
 
