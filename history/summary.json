@@ -66,10 +66,10 @@
     "url": "https://auth.marcomadera.com",
     "icon": "https://icons.duckduckgo.com/ip3/auth.marcomadera.com.ico",
     "slug": "authentication",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 163,
@@ -78,6 +78,7 @@
     "timeMonth": 269,
     "timeYear": 160,
     "dailyMinutesDown": {
+      "2024-02-06": 1,
       "2024-01-17": 18
     }
   },
