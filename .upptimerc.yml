@@ -54,5 +54,9 @@ workflowSchedule:
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
 
+commitMessages:
+  commitAuthorName: "SawBow"
+  commitAuthorEmail: "sawbot@marcomadera.com"
+
 i18n:
   footer: Visit the [GitHub repository]($REPO) to see the full history of this page.
