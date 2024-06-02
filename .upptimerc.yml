@@ -55,7 +55,7 @@ skipDescriptionUpdate: true
 skipTopicsUpdate: true
 
 commitMessages:
-  commitAuthorName: "SawBow"
+  commitAuthorName: "SawBot"
   commitAuthorEmail: "sawbot@marcomadera.com"
 
 i18n:
