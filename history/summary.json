@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 175,
-    "timeDay": 159,
-    "timeWeek": 208,
-    "timeMonth": 282,
-    "timeYear": 173,
-    "dailyMinutesDown": {
-      "2024-06-16": 18
-    }
+    "timeDay": 147,
+    "timeWeek": 214,
+    "timeMonth": 283,
+    "timeYear": 174,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Rindu",
@@ -30,14 +28,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1422,
-    "timeDay": 1882,
-    "timeWeek": 1854,
-    "timeMonth": 1586,
-    "timeYear": 1445,
-    "dailyMinutesDown": {
-      "2024-06-16": 18
-    }
+    "time": 1420,
+    "timeDay": 357,
+    "timeWeek": 1655,
+    "timeMonth": 1529,
+    "timeYear": 1443,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dashboard",
@@ -51,13 +47,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 92,
-    "timeWeek": 185,
-    "timeMonth": 146,
-    "timeYear": 131,
-    "dailyMinutesDown": {
-      "2024-06-16": 18
-    }
+    "timeDay": 286,
+    "timeWeek": 218,
+    "timeMonth": 148,
+    "timeYear": 132,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Authentication",
@@ -71,13 +65,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 151,
-    "timeDay": 94,
-    "timeWeek": 361,
+    "timeDay": 148,
+    "timeWeek": 146,
     "timeMonth": 218,
     "timeYear": 159,
-    "dailyMinutesDown": {
-      "2024-06-16": 18
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Rindu Coverage",
@@ -91,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 149,
-    "timeDay": 135,
-    "timeWeek": 160,
-    "timeMonth": 166,
+    "timeDay": 113,
+    "timeWeek": 155,
+    "timeMonth": 164,
     "timeYear": 160,
     "dailyMinutesDown": {}
   },
@@ -109,13 +101,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 145,
-    "timeDay": 210,
-    "timeWeek": 181,
-    "timeMonth": 161,
+    "timeDay": 188,
+    "timeWeek": 197,
+    "timeMonth": 163,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2024-07-05": 10,
-      "2024-06-16": 18
+      "2024-07-05": 10
     }
   },
   {
@@ -129,13 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 667,
-    "timeDay": 872,
-    "timeWeek": 866,
-    "timeMonth": 662,
-    "timeYear": 632,
-    "dailyMinutesDown": {
-      "2024-06-16": 18
-    }
+    "time": 665,
+    "timeDay": 87,
+    "timeWeek": 749,
+    "timeMonth": 633,
+    "timeYear": 631,
+    "dailyMinutesDown": {}
   }
 ]
