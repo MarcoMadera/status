@@ -4,19 +4,19 @@
     "url": "https://marcomadera.com",
     "icon": "https://icons.duckduckgo.com/ip3/marcomadera.com.ico",
     "slug": "marco-madera",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 0,
-    "timeWeek": 130,
-    "timeMonth": 140,
-    "timeYear": 171,
+    "time": 174,
+    "timeDay": 681,
+    "timeWeek": 208,
+    "timeMonth": 158,
+    "timeYear": 172,
     "dailyMinutesDown": {
-      "2025-07-15": 0
+      "2025-07-15": 10
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://rindu.marcomadera.com",
     "icon": "https://icons.duckduckgo.com/ip3/rindu.marcomadera.com.ico",
     "slug": "rindu",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1438,
-    "timeDay": 0,
-    "timeWeek": 1767,
-    "timeMonth": 1762,
+    "timeDay": 1270,
+    "timeWeek": 1696,
+    "timeMonth": 1745,
     "timeYear": 1464,
     "dailyMinutesDown": {
-      "2025-07-15": 0
+      "2025-07-15": 10
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://dashboard.marcomadera.com",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.marcomadera.com.ico",
     "slug": "dashboard",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 128,
-    "timeDay": 0,
-    "timeWeek": 105,
-    "timeMonth": 119,
-    "timeYear": 130,
+    "time": 129,
+    "timeDay": 380,
+    "timeWeek": 144,
+    "timeMonth": 127,
+    "timeYear": 131,
     "dailyMinutesDown": {
-      "2025-07-15": 0
+      "2025-07-15": 10
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://auth.marcomadera.com",
     "icon": "https://icons.duckduckgo.com/ip3/auth.marcomadera.com.ico",
     "slug": "authentication",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 151,
-    "timeDay": 0,
-    "timeWeek": 144,
-    "timeMonth": 138,
+    "time": 152,
+    "timeDay": 296,
+    "timeWeek": 166,
+    "timeMonth": 143,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2025-07-15": 0
+      "2025-07-15": 10
     }
   },
   {
@@ -102,19 +102,19 @@
     "url": "https://api.marcomadera.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.marcomadera.com.ico",
     "slug": "base-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 145,
-    "timeDay": 0,
-    "timeWeek": 127,
-    "timeMonth": 129,
-    "timeYear": 145,
+    "time": 146,
+    "timeDay": 648,
+    "timeWeek": 202,
+    "timeMonth": 147,
+    "timeYear": 146,
     "dailyMinutesDown": {
-      "2025-07-15": 0
+      "2025-07-15": 10
     }
   },
   {
@@ -122,19 +122,19 @@
     "url": "https://api.marcomadera.com/synced-lyrics",
     "icon": "https://icons.duckduckgo.com/ip3/api.marcomadera.com.ico",
     "slug": "lyrics-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 675,
-    "timeDay": 0,
-    "timeWeek": 886,
-    "timeMonth": 901,
-    "timeYear": 631,
+    "time": 673,
+    "timeDay": 174,
+    "timeWeek": 784,
+    "timeMonth": 877,
+    "timeYear": 630,
     "dailyMinutesDown": {
-      "2025-07-15": 0
+      "2025-07-15": 10
     }
   }
 ]
