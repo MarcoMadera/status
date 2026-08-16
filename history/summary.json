@@ -170,19 +170,19 @@
     "url": "https://coverage.rindu.marcomadera.com",
     "icon": "https://icons.duckduckgo.com/ip3/coverage.rindu.marcomadera.com.ico",
     "slug": "rindu-coverage",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 175,
-    "timeDay": 116,
-    "timeWeek": 111,
-    "timeMonth": 151,
+    "time": 174,
+    "timeDay": 115,
+    "timeWeek": 112,
+    "timeMonth": 150,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2026-08-16": 0
+      "2026-08-16": 19
     }
   },
   {
